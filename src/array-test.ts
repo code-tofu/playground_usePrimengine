@@ -1,3 +1,5 @@
+// npx ts-node src/array-test.ts
+
 
 const a: number[] = [];
 
