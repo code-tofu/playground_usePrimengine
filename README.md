@@ -4,10 +4,10 @@ https://github.com/ThePrimeagen/kata-machine
 
 
 To Test: npx jest <name>
-- [ ] "DFSOnBST"
+- [x] "DFSOnBST"
 - [ ] "LRU"
 - [x] "LinearSearchList"
-- [x] "BinarySearchList"
+- [/] "BinarySearchList"
 - [x] "TwoCrystalBalls"
 - [x] "BubbleSort"
 - [/] "SinglyLinkedList" 
@@ -20,11 +20,12 @@ To Test: npx jest <name>
 - [x] "BTPreOrder"
 - [x] "BTInOrder"
 - [x] "BTPostOrder"
-- [ ] "BTBFS"
-- [ ] "CompareBinaryTrees"
+- [/] "BTBFS"
+- [/] "CompareBinaryTrees"
 - [ ] "DFSOnBST"
 - [ ] "DFSGraphList"
 - [ ] "Trie"
 - [ ] "BFSGraphMatrix"
 - [ ] "Map"
 - [ ] "MinHeap"
+
