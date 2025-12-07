@@ -1,3 +1,5 @@
+- [x] Test npx jest <name>
+
 - [x] "DFSOnBST"
 - [ ] "LRU"
 - [x] "LinearSearchList"
